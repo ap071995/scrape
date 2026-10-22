@@ -1,0 +1,43 @@
+{
+  "3m.com": {
+    "company": "3M",
+    "urls": [
+      "https://investors.3m.com/",
+      "https://www.naics.com/company-profile-page/?co=12417",
+      "https://leadiq.com/c/3m/5a1d8aa62400002400648879/email-format"
+    ]
+  },
+  "ecu.edu": {
+    "company": "East Carolina University",
+    "email_urls": [
+      "https://itcs.ecu.edu/about-itcs/it-leadership/"
+    ],
+    "urls": [
+      "https://www.highergov.com/awardee/east-carolina-university-10144022/",
+      "https://leadiq.com/c/east-carolina-university/5a1d95bb2300005c008467d4",
+      "https://budget.ecu.edu/athletics-fiscal-affairs-2/revenue/"
+    ]
+  },
+  "glendaleaz.com": {
+    "company": "City of Glendale AZ",
+    "urls": [
+      "https://leadiq.com/c/city-of-glendale-az/5a1d96712300005e008510f5",
+      "https://prospeo.io/c/city-of-glendale-az",
+      "https://www.govcb.com/government-vendors/profile-SAM00000000001043436-glendale-city-of-Glendale-AZ.htm"
+    ]
+  },
+  "ubs.com": {
+    "company": "UBS",
+    "urls": [
+      "https://www.ubs.com/global/en/investor-relations.html",
+      "https://www.sec.gov/Archives/edgar/data/1114446/000161052026000026/0001610520-26-000026-index.htm",
+      "https://leadiq.com/c/ubs/5a1d8b2a24000024006646b8/email-format"
+    ]
+  },
+  "villagegreenmgt.com": {
+    "company": "Village Green",
+    "urls": [
+      "https://leadiq.com/c/village-green/5a1d87462400002400615349"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+# Python environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Browser profiles, test state, and generated lead output
+/.test_appdata/
+/LocalLow/
+/Output/
+/tmp*/
+/launcher-tests-*/
+*.log
+
+# Historical release copies and packaged archives
+/Versions/
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
